@@ -24,7 +24,7 @@
 
 I am a QA Engineer and Python amateur from Belarus.
 
-- :telescope: I’m working as a Manual QA Engineer (web, mobile, desktop apps, API and databases).
+- :telescope: I’m working as a Manual QA Engineer (web, mobile, desktop apps, API and databases) for more than 5 years.
 
 - :seedling: Exploring Automation QA on Python.
 
